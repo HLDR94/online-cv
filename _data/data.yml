@@ -42,8 +42,8 @@ education:
       university: Dundee and Angus College
       time: 2018 - 2019
       details: |
-       The course cotains a vast array of computing disciplines.
-       Some of these modules include:
+      The course cotains a vast array of computing disciplines.
+      Some of these modules included:
           - Networking
 	  - Multi-User Operating Systems
 	  - Programming in Java
@@ -55,9 +55,9 @@ education:
       university: Abertay Universtiy
       time: 2019 - 2022
       details: |
-       Year two of the course combines computer networking, digital forensics 
-       and expert development as well as programming. Some of these modules
-       include:
+      Year two of the course combines computer networking, digital forensics 
+      and expert development as well as programming. Some of these modules
+      included:
           - Data Structures and Algorithms
           - Dynamic Web Development
           - Ethical Hacking
